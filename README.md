@@ -33,7 +33,7 @@ Display results using Pandas and a basic bar chart using Matplotlib.
 | `sales_data.db`        | SQLite database file  
 | `sales_chart.png`      | Revenue bar chart image  
 | `README.md`            | Task description & explanation
-
+| 'Screenshot'           | Sales Table
 ---
 
 ## ✅ Sample Output (Printed Table):
